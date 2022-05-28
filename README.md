@@ -1,4 +1,4 @@
-<img align="center" alt="Android" width="55" src="https://media0.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47x777egle4xcdn81kjgj8z4n5hf3c7tqto494ealy&rid=giphy.gif&ct=g"/>
+<img align="center" alt="Android" width="400" src="https://media0.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47x777egle4xcdn81kjgj8z4n5hf3c7tqto494ealy&rid=giphy.gif&ct=g"/>
 
 #### I'm Godwill,  a Senior Web Artisan at [Belva Digital](https://dev.to/carolmusyoka), Writer at [Dev.to](https://dev.to/godwillbarasa) and [Medium](https://dev.to/carolmusyoka) based in Nairobi, Kenya. 
 
