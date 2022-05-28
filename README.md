@@ -1,8 +1,10 @@
-My name is Godwill and I enjoy creating things that live on the internet. My interest in web development started back in 2012 when I decided to try editing custom Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
+##Heeeyy👋.
+
+##I'm Godwill,  a Senior Web Artisan at [Belva Digital](https://dev.to/carolmusyoka), Writer at [Dev.to](https://dev.to/godwillbarasa) and [Medium](https://dev.to/carolmusyoka) based in Nairobi, Kenya. 
 
 Here are a few technologies I’ve been working with recently:
 
--   WordPress
+- WordPress
 - Laravel
 - Javascript ES6 
 - Node.js
