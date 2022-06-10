@@ -7,6 +7,9 @@
 - WordPress
 - Laravel
 - Javascript ES6 
+
+#### Here are a few technologies I’m learning:
+
 - Node.js
 - React
 
