@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=GodwillB)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodwillB&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodwillB&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Now playing on Godwill's Spotify  :
 
