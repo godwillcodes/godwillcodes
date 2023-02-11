@@ -1,6 +1,6 @@
 Hey,
 
-My name is Godwill, an alchemist engineer
+My name is Godwill, an alchemist 
 
 ![](https://komarev.com/ghpvc/?username=godwillcodes)
 
